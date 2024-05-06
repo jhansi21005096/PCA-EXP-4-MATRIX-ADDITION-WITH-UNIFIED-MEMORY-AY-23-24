@@ -663,7 +663,8 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-![output]()
+![output](https://github.com/jhansi21005096/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/blob/main/outaa.png)
+![output](https://github.com/jhansi21005096/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/blob/main/outbb.png)
 
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less 0.017889 (0.2) sec time.
