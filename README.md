@@ -663,7 +663,9 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+### With memsets:
 ![output](https://github.com/jhansi21005096/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/blob/main/outaa.png)
+### without memsets:
 ![output](https://github.com/jhansi21005096/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/blob/main/outbb.png)
 
 ## RESULT:
